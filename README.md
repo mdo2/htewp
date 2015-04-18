@@ -10,10 +10,12 @@ Un portal web para el seguimiento de actividades deportivas orientadas a todo el
 * Grunt
 * Bower
 * Tests
-..* Karma
-..* Jasmine
+    * Karma
+    * Jasmine
+
 ### Base de datos
 * MongoDB
+
 ### Front
 * LESS
 * Coffescrit
