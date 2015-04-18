@@ -1,0 +1,20 @@
+{
+  "name": "htewp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mdo2/htewp",
+  "authors": [
+    "Francisco Javier Arribas Fernández <arribasjavier@gmail.com>"
+  ],
+  "main": "./package.json",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
